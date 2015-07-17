@@ -1,6 +1,6 @@
 # aapt code modify record
 
-- 不检查文件名时候是关键词
+- 不检查文件名是否是关键词
 
 PATH:`frameworks/base/tools/aapt/AaptAssets.h`
 ```cpp
